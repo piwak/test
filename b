@@ -1,1 +1,2 @@
 new functions
+bug fixed
